@@ -1,0 +1,17 @@
+# Ignore compiled Java files
+*.class
+*.jar
+*.log
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore build folders
+bin/
+out/
+build/
+dist/
+target/
+
+# Ignore OS files
+.DS_Store
