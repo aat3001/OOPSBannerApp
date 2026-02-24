@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=OOPSUC7
+comment1.params=
+comment1.target=OOPSUC7.CharacterPatternMap[]\ createCharacterPatternMaps()
+comment1.text=\r\n\ Create\ CharacterPatternMap\ array\ for\ O,\ P,\ S\ and\ space\r\n
+comment2.params=ch\ charMaps
+comment2.target=java.lang.String[]\ getCharacterPattern(char,\ OOPSUC7.CharacterPatternMap[])
+comment2.text=\r\n\ Get\ ASCII\ pattern\ for\ given\ character\r\n
+comment3.params=message\ charMaps
+comment3.target=void\ printMessage(java.lang.String,\ OOPSUC7.CharacterPatternMap[])
+comment3.text=\r\n\ Print\ message\ as\ ASCII\ banner\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Main\ method\r\n
+numComments=5
